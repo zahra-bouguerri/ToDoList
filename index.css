@@ -95,6 +95,12 @@ h4{
     margin-right: 355px;
     
 }
+@media (max-width:950px){
+    .menu{
+        width: 90%;
+    }
+}
+    
 
 
 
